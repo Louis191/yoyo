@@ -12,7 +12,7 @@
 
     <script>
         function showGreeting() {
-            document.getElementById('greeting').textContent = 'Hello, Arigato eiei';
+            document.getElementById('greeting').textContent = 'Helooo, Arigato eiei';
         }
     </script>
 </body>
